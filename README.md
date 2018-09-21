@@ -3,7 +3,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>likeworking.com 网络直播测试</title>
-<script src="http://www.zhangxinxu.com/study/js/html5media.min.js"></script>
 <style>
 <!--
 html{margin:0;padding:0;}
